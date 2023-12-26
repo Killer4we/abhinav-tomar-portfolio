@@ -1,7 +1,7 @@
 # My Portfolio
-Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
+Welcome to my PortFolio.
 
-### Weblink: [[Live Website](https://abhinav-tomar-portfolio.vercel.app/)
+### Weblink: [[Live Website](https://abhinav-tomar-portfolio.vercel.app/)]
 
 ## Installation
 To run this portfolio locally, follow these steps:
@@ -11,4 +11,3 @@ To run this portfolio locally, follow these steps:
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
-
