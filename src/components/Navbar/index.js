@@ -11,11 +11,11 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to='/'>
-          <a href = '#about' style={{display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer', textDecoration: 'none'}}>
-            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-          </a>
-        </NavLogo>
+        // <NavLogo to='/'>
+        //   <a href = '#about' style={{display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer', textDecoration: 'none'}}>
+        //     <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+        //   </a>
+        // </NavLogo>
         <MobileIcon>
           <FaBars onClick={() => {
             setIsOpen(!isOpen)
