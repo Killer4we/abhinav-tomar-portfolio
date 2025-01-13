@@ -10,7 +10,7 @@ export const Bio = {
     "I am an undergraduate student at VIT, Chennai passionate about Competitive Programming, Data Science and Web Development. Dedicated to expanding knowledge and skills, thriving on challenges and seeking new opportunities.Relentlessly curious, embracing the evolving world of technology.",
   github: "https://github.com/Killer4we",
   resume:
-    "https://drive.google.com/file/d/1DHTt8dIG0tXy19HIWvvZYTiXWIRutpZj/view?usp=sharing",
+    "https://drive.google.com/file/d/1JdkD_N5EIShoxjEz2NZxVTqz7Nfx1W_s/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abhinav-tomar-4bb88221b/",
   leetcode: "https://leetcode.com/Abhinav_Tomar/",
 };
@@ -178,23 +178,6 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQH0jIUG8VWAmA/company-logo_100_100/0/1660488618930/ecellvitc_logo?e=1711584000&v=beta&t=Kya9VVPwFp_-AMFWiKaYTnraz-8m6gV235sD1HoCjmg",
-    role: "Project Representative",
-    company: "Business Innovation Community",
-    date: "Aug 2022 - Present",
-    desc: "As part of a collaborative team effort, I am contributing to the development and execution of VLX, a specialized platform modeled after OLX but exclusively tailored for college students.",
-    skills: [
-      "ReactJS",
-      "NodeJs",
-      "Tailwind CSS",
-      "MongoDB",
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-    ],
-  },
-  {
-    id: 1,
     img: "https://media.licdn.com/dms/image/C4D0BAQGeU2u797pjMQ/company-logo_100_100/0/1631313235717?e=1711584000&v=beta&t=Nj58cxDZiBIZClt5Gw7wUXg-TpWCVjSWgLu3sUzZBFo",
     role: "Research Internship",
     company: "ISRO-Indian Space Research Organization",
@@ -208,7 +191,7 @@ export const experiences = [
     ],
   },
   {
-    id: 2,
+    id: 1,
     img: "https://media.licdn.com/dms/image/D4D0BAQFrSCr90A7rQg/company-logo_100_100/0/1696871889807?e=1711584000&v=beta&t=gLyrC-h0RYpxQTH_czAt2_gwVIh8tFrGs0HX1M3Wq4I",
     role: "Web Dev Intern",
     company: "SwasthMind",
@@ -229,8 +212,8 @@ export const education = [
     img: "https://media.licdn.com/dms/image/C4D0BAQGgTYgPZiPkaA/company-logo_100_100/0/1631346260383?e=1711584000&v=beta&t=Sl1DkGMTwm8gdLle5FkYRjzqhrvIt4HN-O3vb4FR7As",
     school: "Vellore Institute of Technology, Chennai",
     date: "Oct 2021 - Sep 2025",
-    grade: "8.86 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Chennai. I have completed 5 semesters and have a CGPA of 8.86. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Bussiness Innovation Community Club (BIC) at VIT, where I am learning and working on exciting projects with a team of talented developers.",
+    grade: "8.9 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Chennai. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -253,10 +236,10 @@ export const education = [
   },
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+// export const TimeLineData = [
+//   { year: 2017, text: "Started my journey" },
+//   { year: 2018, text: "Worked as a freelance developer" },
+//   { year: 2019, text: "Founded JavaScript Mastery" },
+//   { year: 2020, text: "Shared my projects with the world" },
+//   { year: 2021, text: "Started my own platform" },
+// ];
